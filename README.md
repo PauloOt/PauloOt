@@ -44,20 +44,6 @@ Python, Análise de Dados
 (Nota: Os links acima são exemplos. Certifique-se de que os nomes dos repositórios e o seu username Paulo0t estão corretos e que os repositórios são públicos.)
 
 
-
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Paulo0t&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo0t&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-</p>
-
-(Nota: Estas imagens são geradas dinamicamente. Certifique-se de substituir Paulo0t pelo seu nome de usuário exato do GitHub se for diferente. )
-
-
-
-
 🤝 Vamos nos Conectar?
 
 Ficarei feliz em me conectar e discutir oportunidades!
