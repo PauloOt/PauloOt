@@ -1,39 +1,70 @@
-# Olá, eu sou o Paulo! 👋
+👋 Olá, eu sou o Paulo! Futuro Desenvolvedor
 
-Tenho 19 anos e sou apaixonado por tecnologia.  
-Curso Análise e Desenvolvimento de Sistemas (ADS) na Unifecaf Taboão da Serra.
+🚀 Sobre Mim
 
-🚀 Estagiário de TI na MLEGATE  
-🎯 Futuro Cientista de Dados
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unifecaf Taboão da Serra, com 19 anos e uma paixão por transformar dados em soluções.
 
----
+Atualmente, sou Estagiário de TI na MLEGATE, onde aplico meus conhecimentos em infraestrutura e suporte. Meu objetivo é migrar para a área de Ciência de Dados, utilizando minha base sólida em desenvolvimento e SQL para análise e modelagem de dados.
 
-## Tecnologias que uso
+
+
+
+🛠️ Tecnologias que Uso
+
+Aqui estão as principais ferramentas e linguagens que utilizo em meus projetos:
 
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge" />
 </p>
 
----
 
-## Vamos nos conectar?  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-otávio-santos-de-jesus-5b3a70243)
+
+✨ Projetos em Destaque
+
+Recrutadores, confiram alguns dos meus projetos mais relevantes:
+
+Projeto
+Descrição
+Tecnologias
+Projeto_integrador
+Projeto Integrador que demonstra a conexão e manipulação de dados entre Python e MySQL.
+Python, MySQL
+DataDashboard
+Dashboard de Análise de Dados desenvolvido em Python para visualização e insights.
+Python, Análise de Dados
+
+
+(Nota: Os links acima são exemplos. Certifique-se de que os nomes dos repositórios e o seu username Paulo0t estão corretos e que os repositórios são públicos.)
+
+
+
+
+📊 Estatísticas do GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Paulo0t&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo0t&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+</p>
+
+(Nota: Estas imagens são geradas dinamicamente. Certifique-se de substituir Paulo0t pelo seu nome de usuário exato do GitHub se for diferente. )
+
+
+
+
+🤝 Vamos nos Conectar?
+
+Ficarei feliz em me conectar e discutir oportunidades!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/paulo-otávio-santos-de-jesus-5b3a70243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
 
