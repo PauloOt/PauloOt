@@ -24,26 +24,6 @@ Aqui estão as principais ferramentas e linguagens que utilizo em meus projetos:
 </p>
 
 
-
-
-✨ Projetos em Destaque
-
-Recrutadores, confiram alguns dos meus projetos mais relevantes:
-
-Projeto
-Descrição
-Tecnologias
-Projeto_integrador
-Projeto Integrador que demonstra a conexão e manipulação de dados entre Python e MySQL.
-Python, MySQL
-DataDashboard
-Dashboard de Análise de Dados desenvolvido em Python para visualização e insights.
-Python, Análise de Dados
-
-
-(Nota: Os links acima são exemplos. Certifique-se de que os nomes dos repositórios e o seu username Paulo0t estão corretos e que os repositórios são públicos.)
-
-
 🤝 Vamos nos Conectar?
 
 Ficarei feliz em me conectar e discutir oportunidades!
