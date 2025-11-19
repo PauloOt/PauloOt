@@ -4,7 +4,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unifecaf Taboão da Serra, com 19 anos e uma paixão por transformar dados em soluções.
 
-Atualmente, sou Estagiário de TI na MLEGATE, onde aplico meus conhecimentos em infraestrutura e suporte. Meu objetivo é migrar para a área de Ciência de Dados, utilizando minha base sólida em desenvolvimento e SQL para análise e modelagem de dados.
+Atualmente, sou Estagiário de TI na MLEGATE, onde aplico meus conhecimentos em infraestrutura e suporte. Meu objetivo é migrar para a área de Desenvolvimento, utilizando minha base sólida em desenvolvimento e SQL para análise e modelagem de dados.
 
 
 
