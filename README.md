@@ -1,36 +1,51 @@
-👋 Olá, eu sou o Paulo! Futuro Desenvolvedor
+<div align="center">
 
-🚀 Sobre Mim
+# 👋 Olá, eu sou o Paulo!
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unifecaf Taboão da Serra, com 19 anos e uma paixão por transformar dados em soluções.
+**Estudante de ADS · Estagiário de TI · Futuro Desenvolvedor**
 
-Atualmente, sou Estagiário de TI na MLEGATE, onde aplico meus conhecimentos em infraestrutura e suporte. Meu objetivo é migrar para a área de Desenvolvimento, utilizando minha base sólida em desenvolvimento e SQL para análise e modelagem de dados.
+</div>
 
+---
 
+### 🚀 Sobre Mim
 
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Unifecaf Taboão da Serra
+- 💼 Estagiário de TI na **MLEGATE** — infraestrutura e suporte
+- 🎯 Objetivo: migrar para **Desenvolvimento**, com foco em SQL e análise de dados
+- 🔥 Paixão por transformar dados em soluções reais
 
-🛠️ Tecnologias que Uso
+---
 
-Aqui estão as principais ferramentas e linguagens que utilizo em meus projetos:
+### 🛠️ Tecnologias que Uso
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+---
 
-🤝 Vamos nos Conectar?
-
-Ficarei feliz em me conectar e discutir oportunidades!
+### 📊 GitHub Stats
 
 <p align="left">
-<a href="https://www.linkedin.com/in/paulo-otávio-santos-de-jesus-5b3a70243" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PauloOt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloOt&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Vamos nos Conectar?
+
+Aberto a oportunidades, parcerias e boas conversas sobre tecnologia!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/paulo-otávio-santos-de-jesus-5b3a70243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
