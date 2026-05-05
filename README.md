@@ -1,71 +1,104 @@
-<h1 align="center">Hey, I'm Paulo Otávio 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>ADS Student @ UniFECAF · IT Intern @ MLEGATE · Aspiring Full-Stack Developer</b><br/>
-  São Paulo, Brazil
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Paulo%20Otávio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ADS%20Student%20·%20IT%20Intern%20·%20Aspiring%20Full-Stack%20Dev&descAlignY=60&descSize=16&descColor=a78bfa"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/paulo-otávio-santos-de-jesus">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/São_Paulo,_Brazil-gray?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=PauloOt&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
 
 ---
 
-## About me
+### 👨‍💻 &nbsp;About Me
 
-I'm a 19-year-old Analysis and Systems Development student based in Taboão da Serra, São Paulo. I'm currently interning at **MLEGATE**, where I handle IT support, Microsoft 365 administration, and web development — and I'm on my way to becoming a full-stack developer.
+```yaml
+name:       Paulo Otávio Santos de Jesus
+age:        19
+location:   Taboão da Serra, São Paulo — Brazil
+education:  Analysis and Systems Development @ UniFECAF
+work:       IT Intern @ MLEGATE
+goal:       Full-Stack Developer
+```
 
-I'm the **backend lead (Dev 1)** on **Litera**, a full-stack digital library platform built as a group project for my Java course. The stack includes Spring Boot, React, Tailwind CSS, and MySQL.
-
-I enjoy building things that work — whether it's a REST API, a database schema, or a well-configured server environment.
+> I handle IT infrastructure and web development at **MLEGATE** daily.  
+> On the side, I'm the **backend lead (Dev 1)** on **Litera** — a full-stack digital library platform.  
+> I enjoy building things that actually work, from REST APIs to well-configured environments.
 
 ---
 
-## Tech stack
+### 🛠 &nbsp;Tech Stack
+
+**Working with:**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 **Currently learning:**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
 
-## Featured project — Litera
+### 🚀 &nbsp;Featured Project
 
-> A full-stack digital library platform built for a Java course group project.
-
-- **Backend:** Spring Boot REST API (Java) — my main responsibility as Dev 1
-- **Frontend:** React + Tailwind CSS
-- **Database:** MySQL with a fully normalized schema
-- **Features:** plan-based book lending, gamified points system, Stripe subscriptions, cultural events
-
-*Repository will be linked here once available.*
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=PauloOt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloOt&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Connect
-
-<a href="https://www.linkedin.com/in/paulo-otávio-santos-de-jesus">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/PauloOt">
+  <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=PauloOt&repo=Projeto_integrador&theme=tokyonight&hide_border=true&border_radius=12"/>
 </a>
 
-*Open to internship opportunities, collaborations, and good conversations.*
+**Litera — Digital Library Platform**
+
+A full-stack university group project where I serve as **backend lead**.
+
+- 🔧 **Backend:** Java + Spring Boot REST API
+- 🎨 **Frontend:** React + Tailwind CSS  
+- 🗄️ **Database:** MySQL (fully normalized schema)
+- 💳 **Features:** Stripe subscriptions, gamification points, physical book lending, cultural events ticketing
+
+<br clear="right"/>
+
+---
+
+### 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PauloOt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&border_radius=12"/>
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloOt&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloOt&theme=tokyo-night&hide_border=true&radius=12&area=true"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+
+</div>
