@@ -32,7 +32,7 @@ goal:       Full-Stack Developer
 ```
 
 > I handle IT infrastructure and web development at **MLEGATE** daily.  
-> On the side, I'm the **backend lead (Dev 1)** on **Litera** — a full-stack digital library platform.  
+> On the side, I'm the **backend lead and frontend lead** on **Litera** — a full-stack digital library platform.  
 > I enjoy building things that actually work, from REST APIs to well-configured environments.
 
 ---
